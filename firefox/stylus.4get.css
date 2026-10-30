@@ -1,0 +1,24 @@
+* {
+    border-radius: 0 !important;
+}
+    
+:root{
+    /* background */
+    --1d2021: #121212;
+    --282828: #161616;
+    --3c3836: #27273c;
+    --504945: #c0a5bb;
+
+    /* font */
+    --928374: #b292ac;
+    --a89984: #9794ac;
+    --bdae93: #aeaeae;
+    --8ec07c: #af87ff;
+    --ebdbb2: #b194f5;
+
+    /* code highlighter */
+    --comment: #a0c0a4;
+    --default: #f00;
+    --keyword: #9376e4;
+    --string: #ecd78f;
+}

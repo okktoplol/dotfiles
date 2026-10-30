@@ -1,0 +1,3 @@
+[submodule "wallpapers/tiles"]
+	path = wallpapers/tiles
+	url = https://github.com/tile-anon/tiles
